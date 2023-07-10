@@ -1,0 +1,11 @@
+.nv {
+    display: flex;
+    justify-content: flex-end;
+}
+
+p {
+    font-size: 3em;
+    text-decoration: underline;
+    padding: 3em
+        
+}
