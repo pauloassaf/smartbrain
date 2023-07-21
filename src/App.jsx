@@ -3,10 +3,10 @@ import ParticlesBg from 'particles-bg';
 import Navigation from "./components/navigation/Navigation";
 import Rank from "./components/rank/Rank";
 import Logo from "./components/logo/Logo";
-import ImageLinkForm from "./components/imagelinkform/ImageLinkForm.jsx";
-import FaceRecognition from "./components/facerecognition/FaceRecognition.jsx";
-import Signin from "./components/signin/Signin.jsx";
-import Register from "./components/register/Register.jsx";
+import ImageLinkForm from "./components/imagelinkform/ImageLinkForm";
+import FaceRecognition from "./components/facerecognition/FaceRecognition";
+import Signin from "./components/signin/Signin";
+import Register from "./components/register/Register";
 import './App.css';
 
 // INITIAL START
