@@ -1,10 +1,9 @@
-import react from "react";
-import "./ImageLinkform.css"
+import React from "react";
 
 const ImageLinkForm = ({ onInputChange, onButtonSubmit }) => {
     return (
         <div>
-            <p className="f4 white center w-50">
+            <p className="center f4 white w-50">
                 {"This app will try to find a human face in your picture!"}
             </p>
             <div>
